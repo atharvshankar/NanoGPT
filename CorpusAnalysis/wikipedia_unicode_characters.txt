@@ -18,4 +18,3 @@ U+03BF,20
 U+015F,18
 U+00E4,16
 U+0113,16
-Contains 200 Unicode Characters

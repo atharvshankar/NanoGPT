@@ -13,4 +13,3 @@ U+00A5,9
 U+2122,7
 U+00A9,5
 U+00AE,3
-Contains 15 Unicode characters
