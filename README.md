@@ -1,5 +1,5 @@
-This repository contains my implementation for **Lab 1 of CSE519: Data Science Fundamentals** at Stony Brook University.  
-I trained three separate NanoGPT models on different datasets — **Shakespeare**, **Wikipedia**, and **Mathematics** — using character-level tokenization.  
+
+Experimented with the NanoGPT model trained on 3 different datasets — **Shakespeare**, **Wikipedia**, and **Mathematics** — using character-level tokenization.  
 
 The project explores:  
 - Investigating token probabilities during text generation.  
